@@ -1,5 +1,4 @@
-###Hello there, I'm Núria - cotoflux 👋
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 
+### Hello there, I'm Núria - cotoflux 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🌱 I’m currently learning everything 🤣
@@ -13,6 +12,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nuria-puig-riera/" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
