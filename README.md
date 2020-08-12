@@ -1,6 +1,6 @@
 ### Hello there, I'm Núria - cotoflux 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Junior Developer and love to Learn!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -8,10 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cotoflux.github.io" width="22px" src="https://cotoflux.github.io" />][website]
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nuria-puig-riera/" />][linkedin]
-
+- You can see my webpage in https://cotoflux.github.io/
+- Or in my Linkedin in https://www.linkedin.com/in/nuria-puig-riera/
 <br />
 
 ### Languages and Tools:
