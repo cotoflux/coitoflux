@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cotoflux.github.io" width="26px" src="https://cotoflux.github.io" />][website]
-[<img align="left" alt="LinkedIn" width="26px" src="https://www.linkedin.com/in/nuria-puig-riera/" />][linkedin]
+[<img align="left" alt="cotoflux.github.io" width="22px" src="https://cotoflux.github.io" />][website]
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nuria-puig-riera/" />][linkedin]
 
 <br />
 
