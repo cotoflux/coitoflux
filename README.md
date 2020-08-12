@@ -37,4 +37,4 @@
 
 ### SOME STATS
 
-[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
