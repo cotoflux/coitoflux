@@ -3,7 +3,14 @@
 
 ### My alias cotoflux is a catalan word. It is a long history to explain here, but some time ago I decided to use it and now it represents me in most of my social networks. If you want to know more you can just contact me I always enjoy a cofee with a colleague.
 
-## I'm a Web Developer and enjoy my work! 
+### My Github stats 
+
+[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
 ## Facts about me:
 - 🌱 I’m currently learning everything 🤣
@@ -37,9 +44,4 @@
 ---
 <br />
 
-### My Github stats 
 
-[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
-
----
