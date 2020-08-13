@@ -1,7 +1,7 @@
 ## Hello there! 👋
 ## I'm Núria / cotoflux and I am glad to have you here.👋
 
-### My alias cotoflux is a catalan word, long time ago I decided to used it and ever since it is part of my identity. If you want to know more you can just contact me I always enjoy a cofee with a colleague.
+### My alias cotoflux is a catalan word. It is a long history to explain here, but some time ago I decided to use it and now it represents me in most of my social networks. If you want to know more you can just contact me I always enjoy a cofee with a colleague.
 
 ## I'm a Web Developer and enjoy my work! 
 
