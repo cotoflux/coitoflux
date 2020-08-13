@@ -1,12 +1,12 @@
-### Hello there, I'm Núria - cotoflux 👋
-
-## I'm a Junior Developer and love to Learn!
+## Hello there, I'm Núria / cotoflux 👋
+### My alias cotoflux is a catalan word linked to a friend, ever since I used as it became part of my identity.
+## I'm a Web Developer and enjoy my work! Facts about me:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to paint and exercice
 
-### Connect with me:
+### If you want to connect with me:
 
 - You can see my webpage in https://cotoflux.github.io/
 - Or in my Linkedin in https://www.linkedin.com/in/nuria-puig-riera/
@@ -31,6 +31,6 @@
 <br />
 <br />
 
-### SOME STATS
+### SOME GITHUB STATS
 
 [![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
