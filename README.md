@@ -34,8 +34,7 @@
 
 ### SOME GITHUB STATS
 
-[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
+[![Nuria's github stats](https://github-readme-stats.vercel.app/api?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cotoflux)](https://github.com/anuraghazra/github-readme-stats)
