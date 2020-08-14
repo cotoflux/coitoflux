@@ -19,7 +19,7 @@
 
 ### If you want to connect:
 
-- You can see my webpage in https://cotoflux.github.io/
+- You can see my personal webpage I amd doing now in https://cotoflux.github.io/
 - Or in my Linkedin in https://www.linkedin.com/in/nuria-puig-riera/
 
 ### Languages and Tools:
